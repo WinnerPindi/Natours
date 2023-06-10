@@ -12,3 +12,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 ## Demo
 ![image](https://github.com/WinnerPindi/Natours/assets/90834225/9044ef54-2af3-4f75-9df8-7cf90855f854)
 
+## Licence
+
+
+
